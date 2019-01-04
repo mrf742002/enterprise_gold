@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open PO's"
+    id="ff032027-5188-4d31-9ea3-2cb70f8124db">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_30.xml#30"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_e55a984e-58e4-4d84-abed-5615818b8fd0.xml#e55a984e-58e4-4d84-abed-5615818b8fd0"/>
+</archimate:FlowRelationship>
