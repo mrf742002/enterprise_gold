@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shipment Info (TG)"
+    id="d037eace-4d3c-4e3b-8560-b623a0d7afa0">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_14.xml#14"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_60.xml#60"/>
+</archimate:FlowRelationship>

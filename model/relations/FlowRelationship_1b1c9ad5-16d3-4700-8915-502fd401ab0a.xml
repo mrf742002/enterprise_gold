@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Works Orders (TG)"
+    id="1b1c9ad5-16d3-4700-8915-502fd401ab0a">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_67.xml#67"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_62.xml#62"/>
+</archimate:FlowRelationship>

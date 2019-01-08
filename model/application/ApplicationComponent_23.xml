@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="B2BE e-Invoicing"
-    id="23"/>
+    name="B2BE Portal"
+    id="23"
+    documentation="http://magnetwebportal.b2be.com/login"/>
