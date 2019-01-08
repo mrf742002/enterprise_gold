@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Check (TG_)"
+    id="ffa889d0-38cf-46c3-8b2a-a50ab984ac7f">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_14.xml#14"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_56.xml#56"/>
+</archimate:FlowRelationship>
